@@ -22,7 +22,7 @@
 
 **How to use:**
 ```lua
-loadstring(game:HttpGet(""))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/EVA-M-4-X/Hyper_M4X_EVA/refs/heads/main/Git.lua"))()
 ```
 
 Authors: M4X | EVA | AMAL
