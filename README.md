@@ -77,7 +77,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/EVA-M-4-X/Hyper_M4X_E
 
 📜 License | الترخيص | Лицензия
 
-MIT License © 2025 M4X | EVA | AMAL
+GNU GENERAL PUBLIC LICENSE M4X | EVA | AMAL
 
 ```
                     GNU GENERAL PUBLIC LICENSE
